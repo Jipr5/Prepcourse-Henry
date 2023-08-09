@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-Repository n1 Prepcourse Henry
+Este proyecto es como crear un repositorio y clonarlo desde github en mi computadora
+
